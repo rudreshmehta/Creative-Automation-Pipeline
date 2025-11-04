@@ -1,0 +1,6 @@
+Translate the following marketing message to {target_language}.
+Maintain marketing tone, cultural appropriateness for {region}, and appeal to {target_audience}.
+Preserve brand names and product names without translation.
+Output only the translated text without explanations.
+
+Message: {message}

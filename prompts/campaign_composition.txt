@@ -1,0 +1,10 @@
+Transform this product into a professional photo shoot for social media advertisement for {brand_domain}.
+Keep the product centered and prominent.
+Replace background with: {primary_color} gradient scene.
+Add bold text overlay: '{original_message}' in {brand_font} vacant area / outside the main object.
+Add second text overlay in another language: '{translated_message}' in {brand_font} vacant area / outside the main object.
+Text color: {secondary_color} for maximum contrast and readability.
+Style: Eye-catching Instagram/TikTok story aesthetic, modern and clean.
+Leave empty space at the top-right corner area (clear space for logo - do not put any icon or symbol or placeholder for that JUST EMPTY SPACE).
+Professional marketing photography with studio-quality lighting.
+Editing using layering, lightning, ultra-edited, photo-studio.

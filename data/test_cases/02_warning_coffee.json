@@ -1,0 +1,20 @@
+{
+  "campaign_id": "coffee_energy_boost_2025",
+  "products": [
+    {
+      "name": "Premium Arabica Coffee",
+      "description": "100% Arabica beans, rich aroma, bold flavor. Sustainably sourced from Colombia."
+    }
+  ],
+  "region": "Brazil",
+  "target_audience": "Coffee enthusiasts 25-45, professionals, morning routine seekers",
+  "campaign_message": "The best coffee to start your day - guaranteed energy boost",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#6F4E37",
+    "secondary_color": "#F5DEB3",
+    "font_name": "Georgia",
+    "theme": "premium sophisticated warm",
+    "domain": "Food & Beverage"
+  }
+}

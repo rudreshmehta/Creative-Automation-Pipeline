@@ -1,0 +1,24 @@
+{
+  "campaign_id": "kitkat_summer_2025",
+  "products": [
+    {
+      "name": "Dairy Milk",
+      "description": "A chocolate which melts in your mouth, not in your hands. Creamy and delicious."
+    },
+      {
+      "name": "Smarties",
+      "description": "Colorful candy-coated chocolates in a variety of flavors. Fun and shareable."
+    }
+  ],
+  "region": "Japan",
+  "target_audience": "Young people 10-12, snack lovers, office workers",
+  "campaign_message": "Have a break, have a chocolate! Delicious treats for every moment.",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#ED1C24",
+    "secondary_color": "#FFFFFF",
+    "font_name": "Arial",
+    "theme": "fun energetic playful",
+    "domain": "Food & Beverage"
+  }
+}

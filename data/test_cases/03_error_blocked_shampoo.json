@@ -1,0 +1,20 @@
+{
+  "campaign_id": "miracle_hair_cure_2025",
+  "products": [
+    {
+      "name": "Anti-Dandruff Shampoo",
+      "description": "Specially formulated shampoo with natural ingredients for healthy scalp and hair."
+    }
+  ],
+  "region": "India",
+  "target_audience": "Men and women 20-50, dealing with scalp issues, health-conscious",
+  "campaign_message": "Cures dandruff and treats scalp conditions - medical-grade formula",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#00A86B",
+    "secondary_color": "#FFFFFF",
+    "font_name": "Helvetica",
+    "theme": "clean medical professional",
+    "domain": "Beauty & Personal Care"
+  }
+}

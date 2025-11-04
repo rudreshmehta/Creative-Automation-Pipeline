@@ -1,0 +1,50 @@
+{
+  "medical_claims": {
+    "severity": "ERROR",
+    "words": [
+      "cure",
+      "cures",
+      "prevent disease",
+      "prevents disease",
+      "heal",
+      "heals",
+      "fix",
+      "fixes",
+      "medical",
+      "medicinal",
+      "therapeutic"
+    ]
+  },
+  "unsubstantiated_claims": {
+    "severity": "WARNING",
+    "words": [
+      "best",
+      "number 1",
+      "#1",
+      "guaranteed",
+      "guarantee",
+      "proven",
+      "scientifically proven",
+      "clinically proven",
+      "miracle",
+      "revolutionary",
+      "instant results"
+    ]
+  },
+  "profanity": {
+    "severity": "ERROR",
+    "words": [
+      "Damn",
+      "hell",
+      "crap"
+    ]
+  },
+  "competitive": {
+    "severity": "WARNING",
+    "words": [
+      "better than",
+      "superior to",
+      "beats"
+    ]
+  }
+}

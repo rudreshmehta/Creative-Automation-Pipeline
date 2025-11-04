@@ -1,0 +1,20 @@
+{
+  "campaign_id": "spring_beauty_2025",
+  "products": [
+    {
+      "name": "Hydrating Rose Lotion",
+      "description": "24-hour moisture lock cream with rose essence. Lightweight formula for soft, glowing skin."
+    }
+  ],
+  "region": "Quebec",
+  "target_audience": "Women 25-40, eco-conscious, premium beauty seekers",
+  "campaign_message": "Discover nature's beauty secret - Pure ingredients, Pure results",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#2E7D32",
+    "secondary_color": "#FFFFFF",
+    "font_name": "Montserrat",
+    "theme": "eco-friendly minimalist modern",
+    "domain": "Beauty & Personal Care"
+  }
+}

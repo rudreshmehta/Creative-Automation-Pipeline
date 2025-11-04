@@ -1,0 +1,28 @@
+{
+  "campaign_id": "luxury_skincare_collection_2025",
+  "products": [
+    {
+      "name": "Coconut Body Lotion",
+      "description": "Deeply moisturizing body lotion with organic coconut oil. Absorbs quickly, leaves skin soft and smooth."
+    },
+    {
+      "name": "Lavender Night Cream",
+      "description": "Calming night cream with lavender extract. Nourishes skin overnight for a refreshed morning glow."
+    },
+    {
+      "name": "Vitamin C Serum",
+      "description": "Brightening facial serum with pure vitamin C. Lightweight formula for radiant, even-toned skin."
+    }
+  ],
+  "region": "France",
+  "target_audience": "Women 30-55, luxury skincare enthusiasts, spa lovers",
+  "campaign_message": "Indulge in luxury - Your skin deserves the finest",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#D4AF37",
+    "secondary_color": "#000000",
+    "font_name": "Playfair Display",
+    "theme": "luxury elegant sophisticated",
+    "domain": "Beauty & Personal Care"
+  }
+}

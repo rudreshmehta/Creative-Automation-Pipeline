@@ -1,0 +1,4 @@
+Professional product photo of {product_name}.
+{product_description}.
+Style: {brand_theme}.
+Studio lighting, white background, high quality, centered composition

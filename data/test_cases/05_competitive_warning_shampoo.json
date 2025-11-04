@@ -1,0 +1,20 @@
+{
+  "campaign_id": "superior_hair_care_2025",
+  "products": [
+    {
+      "name": "Professional Keratin Shampoo",
+      "description": "Salon-quality shampoo with keratin protein complex. Strengthens and smooths hair for professional results."
+    }
+  ],
+  "region": "Mexico",
+  "target_audience": "Women 25-45, salon hair care seekers, quality-conscious consumers",
+  "campaign_message": "Revolutionary formula - Better than salon treatments, number 1 choice",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#8B4789",
+    "secondary_color": "#FFD700",
+    "font_name": "Lato",
+    "theme": "professional premium modern",
+    "domain": "Beauty & Personal Care"
+  }
+}

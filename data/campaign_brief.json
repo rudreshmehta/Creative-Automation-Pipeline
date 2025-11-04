@@ -1,0 +1,24 @@
+{
+  "campaign_id": "Goods_2025",
+  "products": [
+    {
+      "name": "Nevia Whitening Cream",
+      "description": "24-hour moisture lock cream with rose essence. Lightweight formula for soft, glowing skin."
+    },
+      {
+      "name": "Crest Whitening toothpaste",
+      "description": "Whitening toothpaste with advanced stain removal technology. Fresh mint flavor for a clean mouthfeel. Damn so white!"
+    }
+  ],
+  "region": "Quebec",
+  "target_audience": "All people 3+ age, eco-conscious, premium personal care seekers",
+  "campaign_message": "Nevia whitening cream and Crest toothpaste: Discover nature's secret - Pure ingredients, Pure results. ",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#2E7D32",
+    "secondary_color": "#FFFFFF",
+    "font_name": "Montserrat",
+    "theme": "eco-friendly natural regular usage",
+    "domain": "Personal Care"
+  }
+}

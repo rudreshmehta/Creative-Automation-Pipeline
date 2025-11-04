@@ -1,0 +1,178 @@
+# ============================================
+# IMPORTANT: Secrets and Credentials
+# ============================================
+# Environment variables (contains API keys, tokens)
+.env
+*.env
+.env.local
+.env.*.local
+
+# Google Cloud credentials
+credentials.json
+service-account-key.json
+gcloud-key.json
+
+# Dropbox tokens
+dropbox_token.txt
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# ============================================
+# Generated Assets (can be large)
+# ============================================
+# Output campaigns
+outputs/
+
+# Generated product assets (cached)
+assets/products/*.png
+assets/products/*.jpg
+assets/products/*.jpeg
+
+# Keep brand logos (needed for pipeline)
+!assets/brands/
+
+# ============================================
+# Reports and Logs
+# ============================================
+reports/
+*.log
+creative_automation.log
+
+# ============================================
+# IDEs and Editors
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ============================================
+# Testing
+# ============================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+*.cover
+.hypothesis/
+
+# ============================================
+# Jupyter Notebook
+# ============================================
+.ipynb_checkpoints
+
+# ============================================
+# OS Specific
+# ============================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# ============================================
+# Temporary Files
+# ============================================
+*.tmp
+*.bak
+*.swp
+*.swo
+temp/
+tmp/
+.temp/
+
+# ============================================
+# Database
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+
+# ============================================
+# Documentation Builds
+# ============================================
+docs/_build/
+site/
+_site/
+
+# ============================================
+# Package Managers
+# ============================================
+node_modules/
+package-lock.json
+yarn.lock
+
+# ============================================
+# Exceptions (Keep These)
+# ============================================
+# Keep example data files
+!data/campaign_brief.json
+!data/prohibited_words.json
+!data/test_cases/*.json
+
+# Keep documentation
+!README.md
+!*.md
+
+# Keep requirements
+!requirements.txt
+
+# Keep example brand assets (small reference files)
+!assets/brands/logo.png

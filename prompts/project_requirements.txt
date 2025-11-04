@@ -1,0 +1,27 @@
+Think as a project manager. Ask me any question that you have after reading entire file until you are >95% sure that you can work as standalone without my input. Think outside the box and consider the pain points listed in the documents, objectives and business goals along with Nice to have and propose the solution. 
+
+Create a document. Content of the document should be proposed solution in plain english text format by considering business objective, pain points and nice to have section. Also suggest any additional inputs/enhancements.
+
+Be extremely consice.
+Sacrifice the grammer for the sake of concision.
+
+
+Mail :
+
+`When assets are missing, generate new ones using a GenAI image model • Produce 
+creaLves for at least three aspect ra;os (e.g., 1:1, 9:16, 16:9).`
+The assets are generated using GENAI image model, if assets are missing?
+
+
+
+
+(if not availab then generate assets)
+
+1. python
+2. Google Nano banana
+3. Local
+4. use free tier
+5. generate base image by considering brand details
+6. Based on the region or country - take its native language
+7. I will provide the image but rest of the things needs to be mocked
+8.

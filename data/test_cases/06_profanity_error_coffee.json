@@ -1,0 +1,20 @@
+{
+  "campaign_id": "extreme_coffee_kick_2025",
+  "products": [
+    {
+      "name": "Dark Roast Espresso",
+      "description": "Extra bold dark roast espresso beans. Intense flavor, high caffeine content for serious coffee lovers."
+    }
+  ],
+  "region": "Germany",
+  "target_audience": "Coffee addicts 20-40, late-night workers, extreme sports enthusiasts",
+  "campaign_message": "Damn good coffee - Not for the weak, this hell of a brew wakes you up",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#000000",
+    "secondary_color": "#FF6600",
+    "font_name": "Impact",
+    "theme": "bold edgy extreme",
+    "domain": "Food & Beverage"
+  }
+}

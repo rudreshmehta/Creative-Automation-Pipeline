@@ -1,0 +1,20 @@
+{
+  "campaign_id": "chocolate_delight_quebec_2025",
+  "products": [
+    {
+      "name": "Dark Chocolate Bar 70%",
+      "description": "Premium Belgian dark chocolate with 70% cocoa. Rich, intense flavor with subtle fruity notes."
+    }
+  ],
+  "region": "Quebec",
+  "target_audience": "Chocolate connoisseurs 30-60, health-conscious sweet lovers, premium food enthusiasts",
+  "campaign_message": "Treat yourself to pure cocoa excellence",
+  "brand": {
+    "logo_path": "assets/brands/logo.png",
+    "primary_color": "#3D1F00",
+    "secondary_color": "#E6C200",
+    "font_name": "Crimson Text",
+    "theme": "artisanal premium rich",
+    "domain": "Food & Beverage"
+  }
+}
